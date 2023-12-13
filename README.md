@@ -17,7 +17,7 @@
 
  - 💻 I specialise in web development. I'm particularly interested in creating APIs with both front-end and back-end using Java Spring Boot, HTML, CSS3, Docker and Cloud. 🚀
 
- - 📧 How to reach me **ezequieleg831785@gmail.com** 
+ - 📧 How to reach me **ezequiel122645@gmail.com** 
 
  - ☕️ I am currently programming in Java 😄
 
