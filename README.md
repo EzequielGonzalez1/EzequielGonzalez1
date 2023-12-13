@@ -1,16 +1,43 @@
-### Hi there 👋
+<div id="header-div" align="center">
+ <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683700802583/872218de-7763-4505-b028-d6b02add66c7.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" 
+      width="300" height="150"  />
+  <h1 aling="center"> Hi, 👋😊 I'm Ezequiel</h1>
+   <p aling="center">I'm a student at the Universidad Nacional del Oeste in Argentina, currently pursuing a degree in Computer Science.
+      I consider myself a proactive and self-taught individual with a strong desire to broaden my knowledge and gain experience in the field of Computer Science in order to improve my skills.
+      At the moment I am working on several projects of different nature, mainly focused on web development. 💻🖱️</p>
+</div>
 
-<!--
-**EzequielGonzalez1/EzequielGonzalez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div id="header-div" align="center">
+ <img src="https://www.websutility.com/new_images/cpp-course.gif" width="1000" height="250" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  👩‍💻 About me :
+
+ - 💻 I specialise in web development. I'm particularly interested in creating APIs with both front-end and back-end using Java Spring Boot, HTML, CSS3, Docker and Cloud. 🚀
+
+ - 📧 How to reach me **ezequieleg831785@gmail.com** 
+
+ - ☕️ I am currently programming in Java 😄
+
+ - 🌐 Website [My Linkedin](https://www.linkedin.com/in/ezequiel-gonzalez777/)
+
+
+
+
+
+
+
+ ---
+
+<div align="left">
+ <h2>🛠️ Languages and tools : </h2>
+ <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="60" height="60" />
+ <img src="https://cdn.dribbble.com/users/2084726/screenshots/11897843/media/f8a268a9e9a4cc3ab7b0c104a0301210.gif" width="80" height="60" />
+ <img src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif" width="80" height="60" />
+ <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="80" height="60" />
+  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" width="80" height="60" />
+ <img src="https://camo.githubusercontent.com/5f84852f5c0e75eeb005ec14df9a23ee8bde15f7769f543728a83ab4adda9d6d/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f546f705f53514c5f35302e676966" width="80" height="60" />
+ <img src="https://i.pinimg.com/originals/58/11/68/581168252081681aa1fd9fc35dc665b6.gif" width="80" height="60" />
+</div>
