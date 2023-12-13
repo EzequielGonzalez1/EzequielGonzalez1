@@ -18,7 +18,7 @@
 
  - 📧 How to reach me **ezequiel122645@gmail.com** 
 
- - ☕️ I am currently programming in Java 😄
+ - ☕️ I am currently programming in Java 
 
  - 🌐 Website [My Linkedin](https://www.linkedin.com/in/ezequiel-gonzalez777/)
 
