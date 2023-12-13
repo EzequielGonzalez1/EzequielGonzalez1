@@ -9,7 +9,7 @@
 ---
 
 <div id="header-div" align="center">
- <img src="https://www.websutility.com/new_images/cpp-course.gif" width="1000" height="250" />
+ <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="1000" height="250" />
 </div>
 
 ###  👩‍💻 About me :
