@@ -2,9 +2,8 @@
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683700802583/872218de-7763-4505-b028-d6b02add66c7.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" 
       width="300" height="150"  />
   <h1 aling="center"> Hi, 👋😊 I'm Ezequiel</h1>
-   <p aling="center">I'm a student at the Universidad Nacional del Oeste in Argentina, currently pursuing a degree in Computer Science.
-      I consider myself a proactive and self-taught individual with a strong desire to broaden my knowledge and gain experience in the field of Computer Science in order to improve my skills.
-      At the moment I am working on several projects of different nature, mainly focused on web development. 💻🖱️</p>
+   <p aling="center"> I consider myself to be a proactive and self-taught person, eager to expand my knowledge. 
+                      I am currently working on several projects of different types, mainly focused on web development, microservices and cloud. 💻🖱️</p>
 </div>
 
 ---
